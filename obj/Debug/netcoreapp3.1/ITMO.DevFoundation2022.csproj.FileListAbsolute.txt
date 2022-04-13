@@ -1,0 +1,13 @@
+/Users/anna/Projects/ITMO.DevFoundation2022/ITMO.DevFoundation2022/bin/Debug/netcoreapp3.1/ITMO.DevFoundation2022.deps.json
+/Users/anna/Projects/ITMO.DevFoundation2022/ITMO.DevFoundation2022/bin/Debug/netcoreapp3.1/ITMO.DevFoundation2022.runtimeconfig.json
+/Users/anna/Projects/ITMO.DevFoundation2022/ITMO.DevFoundation2022/bin/Debug/netcoreapp3.1/ITMO.DevFoundation2022.runtimeconfig.dev.json
+/Users/anna/Projects/ITMO.DevFoundation2022/ITMO.DevFoundation2022/bin/Debug/netcoreapp3.1/ITMO.DevFoundation2022.dll
+/Users/anna/Projects/ITMO.DevFoundation2022/ITMO.DevFoundation2022/bin/Debug/netcoreapp3.1/ITMO.DevFoundation2022.pdb
+/Users/anna/Projects/ITMO.DevFoundation2022/ITMO.DevFoundation2022/obj/Debug/netcoreapp3.1/ITMO.DevFoundation2022.csproj.AssemblyReference.cache
+/Users/anna/Projects/ITMO.DevFoundation2022/ITMO.DevFoundation2022/obj/Debug/netcoreapp3.1/ITMO.DevFoundation2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anna/Projects/ITMO.DevFoundation2022/ITMO.DevFoundation2022/obj/Debug/netcoreapp3.1/ITMO.DevFoundation2022.AssemblyInfoInputs.cache
+/Users/anna/Projects/ITMO.DevFoundation2022/ITMO.DevFoundation2022/obj/Debug/netcoreapp3.1/ITMO.DevFoundation2022.AssemblyInfo.cs
+/Users/anna/Projects/ITMO.DevFoundation2022/ITMO.DevFoundation2022/obj/Debug/netcoreapp3.1/ITMO.DevFoundation2022.csproj.CoreCompileInputs.cache
+/Users/anna/Projects/ITMO.DevFoundation2022/ITMO.DevFoundation2022/obj/Debug/netcoreapp3.1/ITMO.DevFoundation2022.dll
+/Users/anna/Projects/ITMO.DevFoundation2022/ITMO.DevFoundation2022/obj/Debug/netcoreapp3.1/ITMO.DevFoundation2022.pdb
+/Users/anna/Projects/ITMO.DevFoundation2022/ITMO.DevFoundation2022/obj/Debug/netcoreapp3.1/ITMO.DevFoundation2022.genruntimeconfig.cache
